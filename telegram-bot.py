@@ -3,7 +3,7 @@ from random import randint
 import quotes
 
 def start(bot, update):
-    update.message.reply_text("Halo, kenalin aku Random Bot. Seneng deh kenalan sama kamu :)")
+    update.message.reply_text("Halo, kenalin aku Random Bot. Seneng deh kenalan sama kamu :)\n\nKetik /quote kalo pengen quote dariku :)")
 
 def quote(bot, update):
     i = randint(0, len(quotes.quotes)-1)
