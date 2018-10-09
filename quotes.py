@@ -45,5 +45,18 @@ quotes = [
 	"Hidupmu perlu diedit.",
 	"Kenapa tissue bermanfaat, karena cinta tak pernah kemarau.",
 	"Saya tidak suka sama orang yang sok tau, banyak ngomong tapi nggak ngerti. Makanya saya diam, supaya saya tidak membenci diri sendiri.",
-	"Jika aku bermuka dua. Manakah yang mungkin sedang aku pakai sekarang?"
+	"Jika aku bermuka dua. Manakah yang mungkin sedang aku pakai sekarang?",
+	"Aku bingung. Pacaran jauh-jauhan disebut LDR. Jauh dari pacar katanya setia. Lah kok kalau pacarnya masih jauh disebut jomblo.",
+	"Butuh berapa malam lagi hingga aku bisa melupakanmu?",
+	"Cinta itu memang buta, tapi cinta tidak tuli. Cinta bisa bedakan mana suara honda jazz dengan honda supra",
+	"Dan sebenarnya, pacar orang adalah pacar kita juga, karena kita juga kan orang",
+	"Kalau mau punya pacar, ada 3 ng, yaitu ngedoa, ngusaha, sama ngaca",
+	"Kita berhenti mencintai diri kita saat tak ada orang lain yang mencintai kita",
+	"Masakanmu membunuhku, hehe",
+	"Yuk, tes adrenalin ke nikahan mantan",
+	"Besar pasak daripada tiang. Aku uda sesak pingin dipanggil sayang",
+	"Di belakang lelaki hebat pasti ada beberapa cewek matre",
+	"Gitu aja kok repot!",
+	"Aku rela dimadu asalkan kamu rela kuracun!",
+	"Hukuman gantung aja udah diganti tembak, kenapa kamu masih gantung aku? Tembak dong!"
 ]
